@@ -1,0 +1,7 @@
+------ Build started: Project: EKBanglaToBijoyClassic, Configuration: Debug x86 ------
+D:\Visual Studio 2010\New Folder\Visual Studio 2010\Projects\EKBanglaToBijoyClassic\EKBanglaToBijoyClassic\Form1.cs(35,17): warning CS0618: 'System.Xml.XmlDataDocument' is obsolete: 'XmlDataDocument class will be removed in a future release.'
+D:\Visual Studio 2010\New Folder\Visual Studio 2010\Projects\EKBanglaToBijoyClassic\EKBanglaToBijoyClassic\Form1.cs(35,48): warning CS0618: 'System.Xml.XmlDataDocument' is obsolete: 'XmlDataDocument class will be removed in a future release.'
+
+Compile complete -- 0 errors, 2 warnings
+  EKBanglaToBijoyClassic -> D:\Visual Studio 2010\New Folder\Visual Studio 2010\Projects\EKBanglaToBijoyClassic\EKBanglaToBijoyClassic\bin\Debug\EKBanglaToBijoyClassic.exe
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
